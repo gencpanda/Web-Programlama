@@ -1,0 +1,280 @@
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\OyunMagazasi.exe.config
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\OyunMagazasi.exe
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\OyunMagazasi.pdb
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\obj\Debug\OyunMagazasi.csprojAssemblyReference.cache
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\obj\Debug\OyunMagazasi.Properties.Resources.resources
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\obj\Debug\OyunMagazasi.csproj.GenerateResource.cache
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\obj\Debug\OyunMagazasi.csproj.CoreCompileInputs.cache
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\obj\Debug\OyunMagazasi.exe
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\obj\Debug\OyunMagazasi.pdb
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\netstandard.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.AppContext.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Collections.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Collections.Specialized.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.ComponentModel.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Console.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Data.Common.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Globalization.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.IO.Compression.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.IO.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.IO.FileSystem.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.IO.Pipes.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Linq.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Linq.Expressions.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Linq.Parallel.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Linq.Queryable.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Net.Http.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Net.NameResolution.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Net.Ping.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Net.Primitives.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Net.Requests.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Net.Security.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Net.Sockets.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Net.WebSockets.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.ObjectModel.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Reflection.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Resources.Reader.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Resources.Writer.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Runtime.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Runtime.Handles.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Security.Claims.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Security.Principal.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Security.SecureString.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Text.Encoding.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Threading.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Threading.Tasks.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Threading.Thread.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Threading.Timer.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Xml.XDocument.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Xml.XPath.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\Npgsql.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Buffers.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Collections.Immutable.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Memory.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Text.Json.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Threading.Channels.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.ValueTuple.dll
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\Npgsql.xml
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Buffers.xml
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Collections.Immutable.xml
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Memory.xml
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Text.Json.xml
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Threading.Channels.xml
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\bin\Debug\System.ValueTuple.xml
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\obj\Debug\OyunMagazasi.exe.config
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\obj\Debug\OyunMagazasi.frm_home.resources
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\obj\Debug\OyunMagazasi.csproj.CopyComplete
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\obj\Debug\OyunMagazasi.frm_giris_kayit.resources
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\obj\Debug\OyunMagazasi.frm_admin.resources
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\obj\Debug\OyunMagazasi.frm_yorumEkle.resources
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\obj\Debug\OyunMagazasi.frm_oyunDetay.resources
+C:\Users\AKYILDIZ-PC\Desktop\OyunMagazasi\OyunMagazasi\obj\Debug\OyunMagazasi.frm_yapimciEkle.resources
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\OyunMagazasi.exe.config
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\OyunMagazasi.exe
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\OyunMagazasi.pdb
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\netstandard.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.AppContext.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Collections.Concurrent.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Collections.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Collections.NonGeneric.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Collections.Specialized.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.ComponentModel.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Console.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Data.Common.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Diagnostics.Debug.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Diagnostics.Process.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Diagnostics.Tools.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Drawing.Primitives.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Dynamic.Runtime.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Globalization.Calendars.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Globalization.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Globalization.Extensions.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.IO.Compression.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.IO.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.IO.FileSystem.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.IO.Pipes.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Linq.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Linq.Expressions.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Linq.Parallel.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Linq.Queryable.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Net.Http.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Net.NameResolution.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Net.NetworkInformation.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Net.Ping.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Net.Primitives.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Net.Requests.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Net.Security.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Net.Sockets.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Net.WebSockets.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.ObjectModel.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Reflection.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Reflection.Extensions.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Reflection.Primitives.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Resources.Reader.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Resources.ResourceManager.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Resources.Writer.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Runtime.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Runtime.Extensions.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Runtime.Handles.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Runtime.InteropServices.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Runtime.Numerics.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Security.Claims.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Security.Principal.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Security.SecureString.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Text.Encoding.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Text.RegularExpressions.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Threading.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Threading.Overlapped.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Threading.Tasks.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Threading.Thread.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Threading.ThreadPool.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Threading.Timer.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Xml.XDocument.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Xml.XmlDocument.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Xml.XPath.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\Npgsql.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Buffers.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Collections.Immutable.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Memory.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Numerics.Vectors.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Text.Encodings.Web.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Text.Json.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Threading.Channels.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.ValueTuple.dll
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\Npgsql.xml
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Buffers.xml
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Collections.Immutable.xml
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Memory.xml
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Numerics.Vectors.xml
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Text.Encodings.Web.xml
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Text.Json.xml
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Threading.Channels.xml
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\bin\Debug\System.ValueTuple.xml
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\obj\Debug\OyunMagazasi.csprojAssemblyReference.cache
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\obj\Debug\OyunMagazasi.exe.config
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\obj\Debug\OyunMagazasi.frm_admin.resources
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\obj\Debug\OyunMagazasi.frm_giris_kayit.resources
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\obj\Debug\OyunMagazasi.frm_home.resources
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\obj\Debug\OyunMagazasi.frm_oyunDetay.resources
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\obj\Debug\OyunMagazasi.frm_yapimciEkle.resources
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\obj\Debug\OyunMagazasi.frm_yorumEkle.resources
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\obj\Debug\OyunMagazasi.Properties.Resources.resources
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\obj\Debug\OyunMagazasi.csproj.GenerateResource.cache
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\obj\Debug\OyunMagazasi.csproj.CoreCompileInputs.cache
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\obj\Debug\OyunMagazasi.csproj.CopyComplete
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\obj\Debug\OyunMagazasi.exe
+D:\Kişisel Dosyalar\Çalışmalarım\ücretli yaotığım ödevler\OyunMagazasi\OyunMagazasi\obj\Debug\OyunMagazasi.pdb
